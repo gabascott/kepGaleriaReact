@@ -1,0 +1,19 @@
+*{
+    box-sizing:border-box;
+}
+.galeria{
+    
+}
+#root{
+    margin:auto;
+}
+.kep{
+    width:30%;
+    height: max-content;
+    border:1px solid black;
+    text-align:center;
+    float:left;
+}
+img{
+    width:50%;
+}
